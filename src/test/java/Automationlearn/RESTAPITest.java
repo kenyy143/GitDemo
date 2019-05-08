@@ -8,7 +8,9 @@ public class RESTAPITest {
 	public void BrowserAutomation()
 	{
 		
-	System.out.println(" BrowserAutomation");	
+	System.out.println(" BrowserAutomation");
+	System.out.println(" BrowserAutomation2");	
+	
 		
 	}
 @Test
@@ -16,5 +18,6 @@ public void elenemtsUi()
 {
 	
 	System.out.println("elenemtsUi");
+	System.out.println("elenemtsUi2");
 }
 }
