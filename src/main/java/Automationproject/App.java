@@ -1,4 +1,4 @@
-package Automationlearn;
+package Automationproject;
 
 /**
  * Hello world!
