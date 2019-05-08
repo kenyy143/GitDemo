@@ -25,5 +25,9 @@ public void deleteTwitter()
 	System.out.println("deleteTwitterNow");
 	System.out.println("deleteTwitter");
 }
+public void deleteTwitterdevelop()
+{
+	
+	System.out.println("deleteTwitterdeveloping");
 }
 
